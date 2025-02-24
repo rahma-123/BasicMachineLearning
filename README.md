@@ -1,1 +1,1 @@
-# BasicMechineLearning
+# BasicMachineLearning
